@@ -6,6 +6,6 @@ void setup() {
 }
 
 void loop() {
-	Serial.print("ping");
+	Serial.print("3rd");
 	delay(1000);
 }
